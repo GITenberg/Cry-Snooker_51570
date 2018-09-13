@@ -1,0 +1,31 @@
+_repo: Cry-Snooker_51570
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Francis, Dick
+    alias: Francis, Richard D.
+    gutenberg_agent_id: '33940'
+    url: http://www.gutenberg.org/2009/agents/33940
+creator:
+  author:
+    agent_name: Fetler, Andrew
+    gutenberg_agent_id: '46330'
+    url: http://www.gutenberg.org/2009/agents/46330
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: Cry Snooker
+url: http://www.gutenberg.org/ebooks/51570
